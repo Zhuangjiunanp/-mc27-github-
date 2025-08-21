@@ -1,0 +1,9 @@
+{
+  "versionCode": 27,
+  "versionName": "6.3.1",
+  "minSdk": 21,
+  "apkUrl": "https://cdn.example.com/app/release-2.3.1.apk",
+  "changelog": "修复若干崩溃，新增暗黑模式",
+  "size": 9876543,
+  "forceUpdate": false
+}
